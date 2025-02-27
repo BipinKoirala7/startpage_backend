@@ -1,0 +1,266 @@
+{
+    "folders":[
+        {
+            "folder_id": "f44e0f8c-1a9a-4b15-ad9e-d4274c177ddc",
+            "folder_name": "ICP",
+            "folder_description": "Description for ICP",
+            "folder_icon_url": "",
+            "folder_background_color": "default",
+            "created_At": "2023-01-01T17:57:00.000Z",
+            "updated_At": null
+        },
+        {
+            "folder_id": "bbb7907f-bab3-47e4-b719-7ed0c4adf276",
+            "folder_name": "Football",
+            "folder_description": "Description for Football",
+            "folder_icon_url": "",
+            "folder_background_color": "default",
+            "created_At": "2023-02-01T17:57:00.000Z",
+            "updated_At": null
+        },
+        {
+            "folder_id": "7c316faa-6307-412e-9701-aeaf2cea45cc",
+            "folder_name": "Social Media",
+            "folder_description": "Description for Social Media",
+            "folder_icon_url": "https://s2.svgbox.net/files.svg?ic=vscode",
+            "folder_background_color": "default",
+            "created_At": "2023-03-01T17:57:00.000Z",
+            "updated_At": null
+        },
+        {
+            "folder_id": "d1fd6407-3725-4f0c-962d-77c613d09dbb",
+            "folder_name": "Programming",
+            "folder_description": "Description for Programming",
+            "folder_icon_url": "",
+            "folder_background_color": "default",
+            "created_At": "2023-04-01T17:57:00.000Z",
+            "updated_At": null
+        },
+        {
+            "folder_id": "f5887d91-e40e-45d3-936e-7c5",
+            "folder_name": "Basketball",
+            "folder_description": "Description for Basketball",
+            "folder_icon_url": "",
+            "folder_background_color": "default",
+            "created_At": "2023-05-01T17:57:00.000Z",
+            "updated_At": null
+        },
+        {
+            "folder_id": "6a6cb90e-5240-4691-b26c-5dce0049d877",
+            "folder_name": "Dating",
+            "folder_description": "Description for Dating",
+            "folder_icon_url": "",
+            "folder_background_color": "default",
+            "created_At": "2023-06-01T17:57:00.000Z",
+            "updated_At": null
+        },
+        {
+            "folder_id": "f32071fc-0dfe-4231-9bbf-3bc54b8d3b5f",
+            "folder_name": "Facebook",
+            "folder_description": "Description for Facebook",
+            "folder_icon_url": "",
+            "folder_background_color": "default",
+            "created_At": "2023-07-01T17:57:00.000Z",
+            "updated_At": null
+        },
+        {
+            "folder_id": "92d9a6ce-44bf-4c70-b011-f5555e0045a7",
+            "folder_name": "Youtube",
+            "folder_description": "Description for Youtube",
+            "folder_icon_url": "",
+            "folder_background_color": "default",
+            "created_At": "2023-08-01T17:57:00.000Z",
+            "updated_At": null
+        },
+        {
+            "folder_id": "41ac6c44-6d2e-4735-89ac-ee72236b5438",
+            "folder_name": "Web Dev",
+            "folder_description": "Description for Web Dev",
+            "folder_icon_url": "",
+            "folder_background_color": "default",
+            "created_At": "2023-09-01T17:57:00.000Z",
+            "updated_At": null
+        }],
+        "links":[
+            {
+                "link_id": "e4637dcd-3d93-4bfb-8eb1-f1e97b4cfd50",
+                "folder_id": "f44e0f8c-1a9a-4b15-ad9e-d4274c177ddc",
+                "link_name": "Facebook",
+                "link_icon_url": "https://facebook.com/favicon.ico",
+                "link_background_color": "#1877F2",
+                "link_url": "https://facebook.com",
+                "created_At": "2024-02-21T08:00:00Z"
+            },
+            {
+                "link_id": "92050adf-16fe-4433-9a95-189da03e4c99",
+                "folder_id": "f44e0f8c-1a9a-4b15-ad9e-d4274c177ddc",
+                "link_name": "Google Drive",
+                "link_icon_url": "https://drive.google.com/favicon.ico",
+                "link_background_color": "#FFC107",
+                "link_url": "https://drive.google.com",
+                "created_At": "2024-02-21T08:01:00Z"
+            },
+            {
+                "link_id": "3451df23-de53-456c-9c7e-5f7e0cb7e17f",
+                "folder_id": "f44e0f8c-1a9a-4b15-ad9e-d4274c177ddc",
+                "link_name": "Netflix",
+                "link_icon_url": "https://netflix.com/favicon.ico",
+                "link_background_color": "#E50914",
+                "link_url": "https://netflix.com",
+                "created_At": "2024-02-21T08:02:00Z"
+            },
+            {
+                "link_id": "f019586b-db76-40bb-b443-1fb28a92fde1",
+                "folder_id": "f44e0f8c-1a9a-4b15-ad9e-d4274c177ddc",
+                "link_name": "Coursera",
+                "link_icon_url": "https://coursera.org/favicon.ico",
+                "link_background_color": "#2A73CC",
+                "link_url": "https://coursera.org",
+                "created_At": "2024-02-21T08:03:00Z"
+            },
+            {
+                "link_id": "24bcfcf1-b98e-4358-932c-fea5ec8240c7",
+                "folder_id": "f44e0f8c-1a9a-4b15-ad9e-d4274c177ddc",
+                "link_name": "Amazon",
+                "link_icon_url": "https://amazon.com/favicon.ico",
+                "link_background_color": "#FF9900",
+                "link_url": "https://amazon.com",
+                "created_At": "2024-02-21T08:04:00Z"
+            },
+            {
+                "link_id": "cb57ce86-5232-441d-be78-9b5ae63f473b",
+                "folder_id": "bbb7907f-bab3-47e4-b719-7ed0c4adf276",
+                "link_name": "LinkedIn",
+                "link_icon_url": "https://linkedin.com/favicon.ico",
+                "link_background_color": "#0A66C2",
+                "link_url": "https://linkedin.com",
+                "created_At": "2024-02-21T08:05:00Z"
+            },
+            {
+                "link_id": "131629b3-7fe6-47c1-8677-e5898b348b9c",
+                "folder_id": "bbb7907f-bab3-47e4-b719-7ed0c4adf276",
+                "link_name": "GitHub",
+                "link_icon_url": "https://github.com/favicon.ico",
+                "link_background_color": "#181717",
+                "link_url": "https://github.com",
+                "created_At": "2024-02-21T08:06:00Z"
+            },
+            {
+                "link_id": "c1d73fe7-0cb5-4ae7-b9fb-87f58022259c",
+                "folder_id": "bbb7907f-bab3-47e4-b719-7ed0c4adf276",
+                "link_name": "BBC News",
+                "link_icon_url": "https://bbc.com/favicon.ico",
+                "link_background_color": "#BB1919",
+                "link_url": "https://bbc.com/news",
+                "created_At": "2024-02-21T08:07:00Z"
+            },
+            {
+                "link_id": "910e1176-7fc2-43e5-87df-a2a5de2b6099",
+                "folder_id": "7c316faa-6307-412e-9701-aeaf2cea45cc",
+                "link_name": "Spotify",
+                "link_icon_url": "https://spotify.com/favicon.ico",
+                "link_background_color": "#1DB954",
+                "link_url": "https://spotify.com",
+                "created_At": "2024-02-21T08:08:00Z"
+            },
+            {
+                "link_id": "b9322036-ecab-41fa-af3e-3606346190a1",
+                "folder_id": "d1fd6407-3725-4f0c-962d-77c613d09dbb",
+                "link_name": "Dropbox",
+                "link_icon_url": "https://dropbox.com/favicon.ico",
+                "link_background_color": "#0061FF",
+                "link_url": "https://dropbox.com",
+                "created_At": "2024-02-21T08:09:00Z"
+            },
+            {
+                "link_id": "f56eec5e-a3d0-49b7-a302-487539b8e90c",
+                "folder_id": "d1fd6407-3725-4f0c-962d-77c613d09dbb",
+                "link_name": "Slack",
+                "link_icon_url": "https://slack.com/favicon.ico",
+                "link_background_color": "#4A154B",
+                "link_url": "https://slack.com",
+                "created_At": "2024-02-21T08:10:00Z"
+            },
+            {
+                "link_id": "2f28c0dc-11f3-41b6-85ef-df0b0d4ebbe0",
+                "folder_id": "d1fd6407-3725-4f0c-962d-77c613d09dbb",
+                "link_name": "Figma",
+                "link_icon_url": "https://figma.com/favicon.ico",
+                "link_background_color": "#F24E1E",
+                "link_url": "https://figma.com",
+                "created_At": "2024-02-21T08:11:00Z"
+            },
+            {
+                "link_id": "da621930-44b6-46d5-8757-8c4e1e91550a",
+                "folder_id": "d1fd6407-3725-4f0c-962d-77c613d09dbb",
+                "link_name": "YouTube",
+                "link_icon_url": "https://youtube.com/favicon.ico",
+                "link_background_color": "#FF0000",
+                "link_url": "https://youtube.com",
+                "created_At": "2024-02-21T08:12:00Z"
+            },
+            {
+                "link_id": "d3af3653-f5a0-43f7-bee0-a5304a6b0e5f",
+                "folder_id": "d1fd6407-3725-4f0c-962d-77c613d09dbb",
+                "link_name": "PayPal",
+                "link_icon_url": "https://paypal.com/favicon.ico",
+                "link_background_color": "#003087",
+                "link_url": "https://paypal.com",
+                "created_At": "2024-02-21T08:13:00Z"
+            },
+            {
+                "link_id": "75beede1-4c84-4470-bed2-2da035eb6e08",
+                "folder_id": "d1fd6407-3725-4f0c-962d-77c613d09dbb",
+                "link_name": "Airbnb",
+                "link_icon_url": "https://airbnb.com/favicon.ico",
+                "link_background_color": "#FF5A5F",
+                "link_url": "https://airbnb.com",
+                "created_At": "2024-02-21T08:14:00Z"
+            },
+            {
+                "link_id": "4010efdb-69b8-4f37-8e91-3a154c81ffd7",
+                "folder_id": "d1fd6407-3725-4f0c-962d-77c613d09dbb",
+                "link_name": "Instagram",
+                "link_icon_url": "https://instagram.com/favicon.ico",
+                "link_background_color": "#E4405F",
+                "link_url": "https://instagram.com",
+                "created_At": "2024-02-21T08:15:00Z"
+            },
+            {
+                "link_id": "6298633c-bf39-46be-bc10-646924727da4",
+                "folder_id": "d1fd6407-3725-4f0c-962d-77c613d09dbb",
+                "link_name": "Notion",
+                "link_icon_url": "https://notion.so/favicon.ico",
+                "link_background_color": "#000000",
+                "link_url": "https://notion.so",
+                "created_At": "2024-02-21T08:16:00Z"
+            },
+            {
+                "link_id": "ca1033af-6676-46b1-b885-6ec8ff7a5fed",
+                "folder_id": "d1fd6407-3725-4f0c-962d-77c613d09dbb",
+                "link_name": "Stack Overflow",
+                "link_icon_url": "https://stackoverflow.com/favicon.ico",
+                "link_background_color": "#F48024",
+                "link_url": "https://stackoverflow.com",
+                "created_At": "2024-02-21T08:17:00Z"
+            },
+            {
+                "link_id": "95a4f7d6-7802-4f0e-99de-41b28ace5859",
+                "folder_id": "d1fd6407-3725-4f0c-962d-77c613d09dbb",
+                "link_name": "Discord",
+                "link_icon_url": "https://discord.com/favicon.ico",
+                "link_background_color": "#5865F2",
+                "link_url": "https://discord.com",
+                "created_At": "2024-02-21T08:18:00Z"
+            },
+            {
+                "link_id": "7f8b7a4b-342b-4c91-b656-82a5a8068d8e",
+                "folder_id": "d1fd6407-3725-4f0c-962d-77c613d09dbb",
+                "link_name": "Microsoft OneDrive",
+                "link_icon_url": "https://onedrive.live.com/favicon.ico",
+                "link_background_color": "#0078D4",
+                "link_url": "https://onedrive.live.com",
+                "created_At": "2024-02-21T08:19:00Z"
+            }
+        ]
+}
