@@ -5,7 +5,7 @@
             "folder_name": "ICP",
             "folder_description": "Description for ICP",
             "folder_icon_url": "",
-            "folder_background_color": "default",
+            "folder_background_color": "",
             "created_At": "2023-01-01T17:57:00.000Z",
             "updated_At": null
         },
@@ -14,7 +14,7 @@
             "folder_name": "Football",
             "folder_description": "Description for Football",
             "folder_icon_url": "",
-            "folder_background_color": "default",
+            "folder_background_color": "",
             "created_At": "2023-02-01T17:57:00.000Z",
             "updated_At": null
         },
@@ -23,7 +23,7 @@
             "folder_name": "Social Media",
             "folder_description": "Description for Social Media",
             "folder_icon_url": "https://s2.svgbox.net/files.svg?ic=vscode",
-            "folder_background_color": "default",
+            "folder_background_color": "",
             "created_At": "2023-03-01T17:57:00.000Z",
             "updated_At": null
         },
@@ -32,7 +32,7 @@
             "folder_name": "Programming",
             "folder_description": "Description for Programming",
             "folder_icon_url": "",
-            "folder_background_color": "default",
+            "folder_background_color": "",
             "created_At": "2023-04-01T17:57:00.000Z",
             "updated_At": null
         },
@@ -41,7 +41,7 @@
             "folder_name": "Basketball",
             "folder_description": "Description for Basketball",
             "folder_icon_url": "",
-            "folder_background_color": "default",
+            "folder_background_color": "",
             "created_At": "2023-05-01T17:57:00.000Z",
             "updated_At": null
         },
@@ -50,7 +50,7 @@
             "folder_name": "Dating",
             "folder_description": "Description for Dating",
             "folder_icon_url": "",
-            "folder_background_color": "default",
+            "folder_background_color": "",
             "created_At": "2023-06-01T17:57:00.000Z",
             "updated_At": null
         },
@@ -59,7 +59,7 @@
             "folder_name": "Facebook",
             "folder_description": "Description for Facebook",
             "folder_icon_url": "",
-            "folder_background_color": "default",
+            "folder_background_color": "",
             "created_At": "2023-07-01T17:57:00.000Z",
             "updated_At": null
         },
@@ -68,7 +68,7 @@
             "folder_name": "Youtube",
             "folder_description": "Description for Youtube",
             "folder_icon_url": "",
-            "folder_background_color": "default",
+            "folder_background_color": "",
             "created_At": "2023-08-01T17:57:00.000Z",
             "updated_At": null
         },
@@ -77,7 +77,7 @@
             "folder_name": "Web Dev",
             "folder_description": "Description for Web Dev",
             "folder_icon_url": "",
-            "folder_background_color": "default",
+            "folder_background_color": "",
             "created_At": "2023-09-01T17:57:00.000Z",
             "updated_At": null
         }],

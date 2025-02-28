@@ -20,6 +20,17 @@ export type linkT = {
   created_at: string;
 };
 
+export type userT = {
+  user_id: string,
+  provider_id: string | null,
+  provider: string | null,
+  email: string,
+  username: string,
+  password: string | null,
+  user_img:Array<string> | null,
+  created_at: string,
+}
+
 export type apiResponseT<T> = {
   error: boolean;
   data: T | null;
