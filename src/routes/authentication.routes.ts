@@ -8,6 +8,7 @@ import { createResponseObject } from "../util";
 import connection from "../database/database";
 import { QueryResult } from "pg";
 import { userT } from "../types";
+import { checkiFUserAlreadyExists } from "../middleware/middleware";
 
 configDotenv();
 
@@ -28,11 +29,9 @@ authenticationRouter
       if (!data || data.length === 0) {
         throw new Error("No any user with the given email");
       } else {
-        const {
-          password: hashPassword,
-          } = data[0];
-          console.log(hashPassword);
-          const isVerified = compareSync(password, hashPassword as string);
+        const { password: hashPassword } = data[0];
+        console.log(hashPassword);
+        const isVerified = compareSync(password, hashPassword as string);
         if (!isVerified) throw new Error("Incorrect email or password");
         else {
           jwt.sign(
@@ -69,13 +68,14 @@ authenticationRouter
 
 authenticationRouter
   .route("/register")
-  .post(async (req: Request, res: Response) => {
+  .post(checkiFUserAlreadyExists,async (req: Request, res: Response) => {
     try {
       const info = req.body;
       const user_id = v4();
       if (info === null) throw new Error("No data provided");
-      if (info.email === null || info.password === null)
+      if (info.email === null || info.password === null) {
         throw new Error("Email or password not provided");
+      }
       const hashPassword = hashSync(info.password, 10);
       const dateNow = new Date().toISOString();
       const { rows: data } = await connection.query({
